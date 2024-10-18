@@ -3,6 +3,7 @@ I am Farzeen and these are my personal coding projects
 
 - [ ] web portfolio
 - [ ] question answer web searcher (website)
+- [ ] make extension for VIT website with alot of options
 - [ ] text editor with GUI (using C)
 - [ ] sorting alorithms race (using Java)
 - [ ] to do list maker 

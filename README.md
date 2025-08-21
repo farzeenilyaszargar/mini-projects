@@ -16,7 +16,7 @@ These are mostly **unhostable** codes on websites and thus they are here!
 	showcasing different kinds of algo (*Java* or *Python* or *C*)
 - [ ] **Code Watch**
 	an AI powered platform where you can test your coding skills based on AI assessment of your code and habits. (leetcode advanced type shi)
-- [ ] Make a **Web Extension** using *JS* to monitor your daily usage of time and showing some graphs 
+- [x] **Web Extension** using *JS* to monitor your daily usage of time and showing some graphs
 - [ ] **The Race** 
 	online here your algorithm races with other's self made algorithms
 - [ ] **Lunoir Wear**
